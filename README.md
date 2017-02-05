@@ -1,2 +1,2 @@
-# CEU_RLab
-R Lab course at CEU
+### CEU_RLab
+#### my first shiny application for a regression on the mtcars dataset
