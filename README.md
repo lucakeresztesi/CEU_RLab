@@ -1,2 +1,2 @@
 ### CEU_RLab
-#### my first shiny application for a regression on the mtcars dataset
+#### My first Shiny application for an interactive regression visualization on the mtcars dataset.
